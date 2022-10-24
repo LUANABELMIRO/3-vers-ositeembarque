@@ -1,0 +1,49 @@
+* {
+margin:0;
+padding: 0;
+
+}
+
+
+h1 {
+margin: 40px 0 40px 0; 
+color: aliceblue;
+
+}
+
+body {
+    background-color:darkorange;
+}
+.box, form {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    width: 250px;
+    height: 30px;
+    border-radius:5px;
+    padding: 0 15px 0 15px;
+}
+
+button{
+    background-color: white;
+    color: coral;
+    padding: 10px;
+ border-radius: 5px;
+  
+}
+ 
+
+
+a.button1 {
+    
+    background-color: white;
+    color: coral;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: -50;
+}
